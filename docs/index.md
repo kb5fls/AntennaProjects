@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Home
+title: KB5FLS Antenna Projects
 ---
 
-# Documentation Home
+# KB5FLS Antenna Projects
 
-Below are links to antenna proejcts related to ham radio.
+Welcome to my ham radio antenna project hub.
 
--[Dipole Antennas](dipole-antennas)
+Below are links to antenna projects related to ham radio:
 
--[Portable Antennas](portable-antennas)
+- [Dipole Antennas](/dipole-antennas/)
+- [Portable Antennas](/portable-antennas)
