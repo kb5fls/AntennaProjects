@@ -3,8 +3,9 @@ layout: default
 title: Dipole Antennas
 ---
 
-# Dipole Antenna Projects
+# Dipole Antennas
 
-Below are detailed builds:
+Projects and documentation related to dipole antennas.
 
-- [Download Center Fed Trap Dipole with DIY 1 to 1 Balun](CenterFed_Trapped_Dipole_DIY_1to1Balun.pdf)
+- [Multiband Trap Dipole](multiband-trap-dipole.md)
+- [20m/15m/10m Dipole Build](20-15-10m-dipole.md)

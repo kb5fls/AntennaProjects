@@ -5,9 +5,101 @@ title: KB5FLS Antenna Projects
 
 # KB5FLS Antenna Projects
 
-Welcome to my ham radio antenna project hub.
+Welcome to the **KB5FLS** antenna documentation hub.  
+This site collects my notes, build guides, and experiments for ham radio antennas—especially multiband dipoles and portable/field setups.
 
-Below are links to antenna projects related to ham radio:
+---
 
-- [Dipole Antennas](/dipole-antennas/)
-- [Portable Antennas](/portable-antennas)
+## 🔎 Quick Navigation
+
+Jump straight to a section:
+
+- 👉 [Dipole Antennas](#dipole-antennas)
+- 👉 [Portable Antennas](#portable-antennas)
+- 👉 [How This Documentation Is Organized](#how-this-documentation-is-organized)
+- 👉 [Working Notes & Future Ideas](#working-notes--future-ideas)
+
+---
+
+## Dipole Antennas
+
+Detailed projects and documentation for **fixed or semi-permanent** dipole antennas.
+
+[**Browse all dipole antenna docs →**](/dipole-antennas/)
+
+### Featured / Planned Topics
+
+- **Multiband Trap Dipole (20m / 15m / 10m)**  
+  Design using traps (toroids or PVC-based) to cover multiple HF bands on a single wire.
+
+- **Center-Fed 20m Dipole (Reference Design)**  
+  A simple, baseline 20m dipole used as a reference for comparing other designs.
+
+- **Baluns & Chokes for Dipoles**  
+  Notes on 1:1 current baluns, common-mode chokes, and how they impact SWR and pattern.
+
+- **Trap Construction Notes**  
+  Measurements, turns counts, toroid choices, PVC trap options, etc., focused on 100–200 W operation.
+
+> **Tip:** As you create pages inside `docs/dipole-antennas/`, you can link them here:
+> - `[Multiband Trap Dipole](/dipole-antennas/multiband-trap-dipole/)`
+> - `[20m Reference Dipole](/dipole-antennas/20m-reference-dipole/)`
+
+---
+
+## Portable Antennas
+
+Projects focused on **lightweight, packable antennas** for portable ops, POTA, SOTA, or field testing.
+
+[**Browse all portable antenna docs →**](/portable-antennas/)
+
+### Featured / Planned Topics
+
+- **Portable Vertical for HF**  
+  Collapsible vertical with radials, tuned for quick deployment in parks.
+
+- **End-Fed Half-Wave (EFHW) for Portable Use**  
+  Matching unit, wire length choices, and band coverage trade-offs.
+
+- **Quick-Deploy Dipole / Inverted-V**  
+  Compact center support, feedline strain relief, and ways to use a single mast.
+
+- **Pack List & Station Layout**  
+  Notes on masts, stakes, feedline, guying, and how the antenna integrates with the radios and power.
+
+> **Idea:** As you add markdown files under `docs/portable-antennas/`, link them here:
+> - `[Portable Vertical](/portable-antennas/portable-vertical/)`
+> - `[EFHW for POTA](/portable-antennas/efhw-pota/)`
+
+---
+
+## How This Documentation Is Organized
+
+This site is organized by **antenna category**, with each category having its own sub-index.
+
+- **Home (this page)**  
+  High-level overview and links to major sections.
+
+- **Dipole Antennas**  
+  All content under:  
+  `docs/dipole-antennas/` → served at `/dipole-antennas/`
+
+- **Portable Antennas**  
+  All content under:  
+  `docs/portable-antennas/` → served at `/portable-antennas/`
+
+### Suggested Folder Structure
+
+Inside your repo:
+
+```text
+docs/
+  index.md                  # this file
+  dipole-antennas/
+    index.md                # dipole section landing page
+    multiband-trap-dipole.md
+    20m-reference-dipole.md
+  portable-antennas/
+    index.md                # portable section landing page
+    portable-vertical.md
+    efhw-pota.md
