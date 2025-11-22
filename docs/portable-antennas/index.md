@@ -3,6 +3,6 @@ layout: default
 title: Portable Antennas
 ---
 
-# Dipole Antenna Projects
+# Portable Antenna Projects
 
 Below are detailed builds:
