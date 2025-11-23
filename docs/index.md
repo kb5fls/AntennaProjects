@@ -1,9 +1,9 @@
 ---
 layout: default
-title: KB5FLS Antenna Projects
+title: KB5FLS Ham Radio Projects
 ---
 
-# KB5FLS Antenna Projects
+
 
 Welcome to the **KB5FLS** antenna documentation hub.  
 This site collects my notes, build guides, and experiments for ham radio antennas—especially multiband dipoles and portable/field setups.
@@ -16,8 +16,7 @@ Jump straight to a section:
 
 - 👉 [Dipole Antennas](#dipole-antennas)
 - 👉 [Portable Antennas](#portable-antennas)
-- 👉 [How This Documentation Is Organized](#how-this-documentation-is-organized)
-- 👉 [Working Notes & Future Ideas](#working-notes--future-ideas)
+
 
 ---
 
@@ -87,19 +86,3 @@ This site is organized by **antenna category**, with each category having its ow
 - **Portable Antennas**  
   All content under:  
   `docs/portable-antennas/` → served at `/portable-antennas/`
-
-### Suggested Folder Structure
-
-Inside your repo:
-
-```text
-docs/
-  index.md                  # this file
-  dipole-antennas/
-    index.md                # dipole section landing page
-    multiband-trap-dipole.md
-    20m-reference-dipole.md
-  portable-antennas/
-    index.md                # portable section landing page
-    portable-vertical.md
-    efhw-pota.md
