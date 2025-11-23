@@ -16,7 +16,7 @@ Jump straight to a section:
 
 - 👉 [Dipole Antennas](#dipole-antennas)
 - 👉 [Portable Antennas](#portable-antennas)
-
+- 👉 [Loop Antennas](#loop-antennas)
 
 ---
 
@@ -71,6 +71,15 @@ Projects focused on **lightweight, packable antennas** for portable ops, POTA, S
 > - `[EFHW for POTA](/portable-antennas/efhw-pota/)`
 
 ---
+
+## Loop Antennas
+
+[**Browse all loop antenna docs →**](/loop-antennas/)
+
+---
+
+
+### Featured / Planned Topics
 
 ## How This Documentation Is Organized
 
