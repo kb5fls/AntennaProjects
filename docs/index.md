@@ -95,3 +95,9 @@ This site is organized by **antenna category**, with each category having its ow
 - **Portable Antennas**  
   All content under:  
   `docs/portable-antennas/` → served at `/portable-antennas/`
+
+- **Loop Antennas**  
+  All content under:  
+  `docs/loop-antennas/` → served at `/loop-antennas/`
+
+
