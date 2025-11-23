@@ -22,9 +22,7 @@ header_pages:
 
 title: Ham Radio Antenna Projects
 email:
-description: >- # this means to ignore newlines until "baseurl:"
- Here is a collection of ham radio antenna projects I have built as well as
-  resources to additional online ham radio antenna sites.
+description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kb5fls.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
