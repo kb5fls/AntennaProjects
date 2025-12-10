@@ -79,9 +79,7 @@ sealant.
 
 # Trap Diagram (Color)
 
-![A diagram of a diagram AI-generated content may be
-incorrect.](![](images/diagram_trap_toroid_v2.svg)){width="6.0in"
-height="3.957638888888889in"}
+![](images/diagram_trap_toroid_v2.svg){width="6.0in"}
 
 # Pre‑Cut Lengths & Layout (Color)
 
@@ -98,8 +96,7 @@ height="3.957638888888889in"}
   (20 m)                                                m
   -----------------------------------------------------------------------
 
-![](images/diagram_trap_toroid_v2.svg){width="6.151464348206474in"
-height="6.778001968503937in"}
+![](images/diagram_ocf_layout.svg){width="6.2in"}
 
 # Build Each Trap --- Step by Step
 
@@ -125,8 +122,7 @@ Keep leads \*\*very short\*\*.
   direct connection). Sweep and look for a \*\*deep notch/dip\*\*.
   Spread turns to raise f₀; squeeze to lower. Re‑check after sealing.
 
-![](images/diagram_line_choke.svg){width="6.099109798775153in"
-height="5.406382327209099in"}
+![](images/diagram_line_choke.svg){width="6.1in"}
 
 # Assembly (Center‑Fed with DIY 1:1 Current Balun)
 
@@ -152,8 +148,7 @@ height="5.406382327209099in"}
 Recommended: \*\*two stacked FT240‑31\*\* toroids for broad HF choking
 (covers 20--10 m well). FT240‑43 is an alternative.
 
-![](images/DIY_1to1_Balun.png){width="6.081606517935258in"
-height="5.705729440069991in"}
+![](images/DIY_1to1_Balun.png){width="6.1in"}
 
 - \*\*Parts (DIY balun):\*\*
 
