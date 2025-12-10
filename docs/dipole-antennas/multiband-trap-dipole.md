@@ -96,7 +96,7 @@ sealant.
   (20 m)                                                m
   -----------------------------------------------------------------------
 
-![](images/diagram_ocf_layout.svg){width="6.2in"}
+![](images/A_set_of_nine_technical_and_instructional_diagrams.png){width="6.5in"}
 
 # Build Each Trap --- Step by Step
 
